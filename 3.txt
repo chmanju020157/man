@@ -1,0 +1,10 @@
+hi 
+hello
+welcome
+salohi
+aws
+python
+java
+developer
+testing
+
