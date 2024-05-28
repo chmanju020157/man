@@ -5,6 +5,5 @@ salohi
 aws
 python
 java
-developer
-testing
+
 
